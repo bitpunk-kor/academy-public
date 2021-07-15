@@ -6,6 +6,8 @@
 ## 💵 투자와 트레이딩 <a id="investment-trading"></a>
 
 * [트레이딩이란?](investment-trading/what-is-trading.md)
+* [투자란?](investment-trading/what-is-investment.md)
+* [기초적 분석이란?](investment-trading/undefined.md)
 
 ## 📈 기술적 분석 <a id="technical-analysis"></a>
 
